@@ -29,7 +29,7 @@ def main():
                 print output
 
         except TypeError:
-            print "T Invalid command syntax"
+            print "Invalid command syntax"
 
 if __name__ == '__main__':
     main()
