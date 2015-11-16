@@ -1,0 +1,1 @@
+python run_toy_robot.py > output.txt
